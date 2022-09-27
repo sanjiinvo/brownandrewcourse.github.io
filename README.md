@@ -1,2 +1,2 @@
-# brownandrewcourse.github.io
+# Саттыбаев Санжар
 myfirstsitecourses
